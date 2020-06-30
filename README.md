@@ -1,3 +1,3 @@
 # sample
 
-GUI sample code for pattern loading onto DMD
+GUI sample code for patn loading
