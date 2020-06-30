@@ -1,3 +1,3 @@
 # sample
 
-sample code for 
+GUI sample code for pattern loading
